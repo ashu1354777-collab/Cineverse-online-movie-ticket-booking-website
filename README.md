@@ -51,7 +51,8 @@ Please make sure to update tests as appropriate.
 <img src="img/screenshot/11.png">
 <img src="img/screenshot/13.png">
 <img src="img/screenshot/14.png">
-<img src="C:\Users\User\Desktop\SC\IMG_20260605_165235.png">
+<img src="<img width="1366" height="768" alt="IMG_20260605_165235" src="https://github.com/user-attachments/assets/a3ee2703-a4ae-47f6-89aa-8ae8781c05db" />
+
 <img src="database/ER.png">
 
 language used
